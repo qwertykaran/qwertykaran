@@ -50,7 +50,7 @@
 ---
 
 #### ⚡ Fun Fact
-I'm on a 90-day challenge to grow mentally, physically, academically, and spiritually — discipline is my superpower! 💪
+✅ Successfully completed a **90-day transformation challenge** focused on mental, physical, academic, and spiritual growth — discipline is now a habit, not a phase! 💪
 
 ---
 
