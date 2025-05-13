@@ -43,7 +43,7 @@
 
 #### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/karan-soni-123/](https://www.linkedin.com/in/karan-soni-684245188/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/karan-soni-684245188/)  
 - 📮 Email: sonikaran440@gmail.com
 - 🌐 Portfolio (Coming Soon)
 
