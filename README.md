@@ -28,8 +28,8 @@
 - 📊 **LeetCode Metrics App**: A frontend app that fetches and visualizes LeetCode user stats via public API  
   _HTML + CSS + JavaScript_
 
-- 🔒 **G-Shield**: An IoT-based real-time gas leak detection system using Raspberry Pi  
-  _Python + GPIO + Buzzer + LCD Display_
+- 🧠 Custom LLM Chatbot: A fine-tuned Generative AI assistant built during Intel® Unnati Industrial Training 2024, focused on CPU-based inference and real-world chatbot deployment
+Machine Learning + LLM Fine-tuning + Python + Hugging Face + Gradio (optional)
 
 - 🤖 **Face Blurring App**: Detects and blurs faces in uploaded images using OpenCV  
   _Python + Computer Vision_
