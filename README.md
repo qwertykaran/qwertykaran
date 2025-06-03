@@ -3,7 +3,9 @@
 🚀 A passionate Full-Stack Developer | Machine Learning Enthusiast | CSE Undergrad @ Parul University  
 🔧 Building real-world solutions using the **MERN Stack**, **ML**, and **IoT**  
 🎯 Dreaming Big | Learning Daily | Growing Constantly
-      PORTFOLIO WEBSITE:[Portfolio](https://developerkaran.vercel.app/)
+
+---
+## PORTFOLIO WEBSITE:[Portfolio](https://developerkaran.vercel.app/)
 
 ---
 
