@@ -45,7 +45,7 @@ Machine Learning + LLM Fine-tuning + Python + Hugging Face + Gradio (optional)
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/karan-soni-684245188/)  
 - 📮 Email: sonikaran440@gmail.com
-- 🌐 Portfolio [](https://developerkaran.vercel.app/)
+- 🌐 [Portfolio](https://developerkaran.vercel.app/)
 
 ---
 
