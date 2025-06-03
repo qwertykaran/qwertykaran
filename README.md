@@ -5,9 +5,6 @@
 🎯 Dreaming Big | Learning Daily | Growing Constantly
 
 ---
-## PORTFOLIO WEBSITE:[Portfolio](https://developerkaran.vercel.app/)
-
----
 
 #### 👨‍💻 About Me
 
@@ -48,7 +45,7 @@ Machine Learning + LLM Fine-tuning + Python + Hugging Face + Gradio (optional)
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/karan-soni-684245188/)  
 - 📮 Email: sonikaran440@gmail.com
-- 🌐 Portfolio (Coming Soon)
+- 🌐 Portfolio [](https://developerkaran.vercel.app/)
 
 ---
 
